@@ -4,4 +4,5 @@ https://www.youtube.com/watch?v=DgjLuZdDtP0
 * psalm
 * PhpUnit
 * Laravel/Dusk
-# supreme-succotash
+# supreme-succotash 
+# Lara-debug
