@@ -2,8 +2,8 @@
 
 namespace Tests\Feature;
 
-use Tests\TestCase;
 use App\Box;
+use Tests\TestCase;
 
 class BasicTest extends TestCase
 {
@@ -37,5 +37,4 @@ class BasicTest extends TestCase
         // Empty array if passed even
         $this->assertEmpty($box->startsWith('s'));
     }
-
 }

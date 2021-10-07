@@ -52,5 +52,4 @@ class Box
             return stripos($item, $letter) === 0;
         });
     }
-
 }
