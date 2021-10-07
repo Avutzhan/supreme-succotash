@@ -23,3 +23,7 @@ Route::get('/health', [HealthController::class, 'hello']);
 Route::get('/alpha', function () {
     return view('alpha');
 });
+
+Route::get('/beta', function () {
+    return view('beta');
+});
