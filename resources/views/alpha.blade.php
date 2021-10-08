@@ -7,5 +7,6 @@
 </head>
 <body>
 <h1>This is the Alpha page</h1>
+<a href="{{ route('beta') }}">Next</a>
 </body>
 </html>
